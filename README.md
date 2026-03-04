@@ -51,19 +51,9 @@ MQTT Console is designed for local and remote MQTT testing workflows:
 
 ## Screenshots
 
-Current screenshots are placeholders. Replace files under `docs/screenshots/` with real captures.
-
-### Desktop Main Page (Placeholder)
-
-![Desktop Main](docs/screenshots/desktop-main-placeholder.svg)
-
-### Mobile View (Placeholder)
-
-![Mobile View](docs/screenshots/mobile-view-placeholder.svg)
-
-### Sync Settings (Placeholder)
-
-![Sync Settings](docs/screenshots/sync-settings-placeholder.svg)
+![Desktop Main](docs/screenshots/img1.png)
+![Desktop Main](docs/screenshots/img2.png)
+![Desktop Main](docs/screenshots/img3.png)
 
 ## Tech Stack
 

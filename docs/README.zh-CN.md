@@ -50,19 +50,9 @@ MQTT Console 面向 MQTT 调试与测试场景：
 
 ## 页面截图
 
-当前为占位图，请将真实截图放到 `docs/screenshots/` 后替换。
-
-### 桌面端主页（占位）
-
-![桌面端主页](./screenshots/desktop-main-placeholder.svg)
-
-### 移动端视图（占位）
-
-![移动端视图](./screenshots/mobile-view-placeholder.svg)
-
-### 同步设置（占位）
-
-![同步设置](./screenshots/sync-settings-placeholder.svg)
+![Desktop Main](screenshots/img1.png)
+![Desktop Main](screenshots/img2.png)
+![Desktop Main](screenshots/img3.png)
 
 ## 技术栈
 
