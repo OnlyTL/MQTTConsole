@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "mqtt-development": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "computedHash": "b45982e5410605159233eacb0a892132602633146ac187a1bb8469076e550904"
+    },
+    "shadcn-ui": {
+      "source": "giuseppe-trisciuoglio/developer-kit",
+      "sourceType": "github",
+      "computedHash": "1d143375761e8aa6bcd832b19451d1aaa4a21994d7067e9f51f0ee66381aa815"
+    },
+    "tailwind-design-system": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "c88178d861802fa836be54e377e82bb67899b6c378807679a1feecd21bf63cb8"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "computedHash": "4cfe5e95a230616c17d92b44e3cd37bae543ce087a7756a446a62f77d7c58a37"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "3ff06f0712886f7c2660d6746856c22d3127bd6568ddde29ddad8b72dbaaa226"
+    }
+  }
+}
